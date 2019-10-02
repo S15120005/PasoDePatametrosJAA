@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PasoParametros</string>
+    <string name="btnGuardar">PasoParametros</string>
+    <string name="txtNombre">PasoParametros</string>
+    <string name="txtEmail">PasoParametros</string>
+    <string name="txtTwitter">PasoParametros</string>
+    <string name="txtTelefono">PasoParametros</string>
+    <string name="txtFechaNacimiento">PasoParametros</string>
+    <string name="btnAgregarContacto">PasoParametros</string>
+    <string name="textView4">PasoParametros</string>
+</resources>
